@@ -1,6 +1,6 @@
 # intro-to-github
 This is a demo repository to practice using GitHub, which I have gone and changed in the edit-readme branch. Or at least, that's what I think I'm doing.
-This time 'round I'm editing it locally.
+This time 'round I'm editing it locally!
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
